@@ -1,1 +1,1 @@
-# Computer-Vision
+В данном репозитории выложены мои проекты, связанные с Computer Vision
